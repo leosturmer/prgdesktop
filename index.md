@@ -28,8 +28,9 @@
 
 - [Classe App](classe-app.md)
 - [Usando os Widgets Header e Footer](widgets-header-footer.md)
+- [Screens e Bindings](screens-e-bindings.md)
 
-
+---
 > Listagem dos exemplos de código utilizados:
 > 
 > [github.com/lgmaciel/prgdesktop/exemplos](https://github.com/lgmaciel/prgdesktop/tree/main/exemplos)
