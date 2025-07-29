@@ -23,3 +23,9 @@
 - [Leitura 01](ex-leitura-01.md)
 - [Escrita 01](ex-escrita-01.md)
 - [Desafios 01](ex-desafios-01.md)
+
+--- 
+
+> Listagem dos exemplos de código utilizados:
+> 
+> [github.com/lgmaciel/prgdesktop/exemplos](https://github.com/lgmaciel/prgdesktop/tree/main/exemplos)
