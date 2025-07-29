@@ -19,6 +19,7 @@
 
 ---
 
-- [Perguntas 01](perguntas-01.md)
-- [Exercícios 01](exercicios-01.md)
-- [Desafios 01](desafios-01.md)
+- [Perguntas 01](ex-perguntas-01.md)
+- [Leitura 01](ex-leitura-01.md)
+- [Escrita 01](ex-escrita-01.md)
+- [Desafios 01](ex-desafios-01.md)

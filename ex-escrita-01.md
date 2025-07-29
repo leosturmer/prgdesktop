@@ -1,4 +1,4 @@
-## Exercícios de Fixação
+## Exercícios de Escrita
 
 1. **Crie uma aplicação mínima com Textual:**
    - Inicialize um ambiente virtual, instale o Textual e escreva uma aplicação que apenas exibe uma mensagem no terminal.
