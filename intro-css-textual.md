@@ -43,23 +43,27 @@ Exemplo de sintaxe:
 
 ```css
 Static {
-    color: #fff;
-    background: #333;
-    border: solid 1px #00ff00;
-    padding: 1 2;
+    background: #222;
+    color: #f5f5f5;
+    border: solid #00ff00;
+    padding: 1;
+    text-align: center;
 }
 
-#meu_id {
-    color: #ff0;
+#msg1 {
+    background: #004488;
+    color: #fff;
+    border: solid #ffcc00;
 }
 
 .minha-classe {
-    font-weight: bold;
-    background: #222;
+    background: #ffdddd;
+    color: #880000;    
 }
+
 ```
 
-- **Seletores**: `Static` (tipo), `#meu_id` (id), `.minha-classe` (classe)
+- **Seletores**: `Static` (tipo), `#msg1` (id), `.minha-classe` (classe)
 - **Propriedades**: `color`, `background`, `border`, `padding`, `font-weight`, etc.
 - **Valores**: cores em hexadecimal, valores numéricos para espaçamento, palavras-chave para estilos de fonte, etc.
 
@@ -75,22 +79,22 @@ Crie um arquivo chamado `estilos.css` com o seguinte conteúdo:
 Static {
     background: #222;
     color: #f5f5f5;
-    border: solid 1px #00ff00;
-    padding: 1 2;
+    border: solid #00ff00;
+    padding: 1;
     text-align: center;
 }
 
 #msg1 {
     background: #004488;
     color: #fff;
-    border: solid 2px #ffcc00;
+    border: solid #ffcc00;
 }
 
 .minha-classe {
     background: #ffdddd;
-    color: #880000;
-    font-weight: bold;
+    color: #880000;    
 }
+
 ```
 
 #### 2. Aplicando o CSS na aplicação
