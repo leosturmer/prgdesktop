@@ -3,25 +3,25 @@
 
 1. Qual comando inicializa um ambiente virtual em Python?
    - a) `python -m virtualenv venv`
-   - b) `python -m venv .venv`
+   - **b) `python -m venv .venv`**
    - c) `pip install venv`
    - d) `venv init`
 
 2. Qual framework permite criar interfaces no terminal com Python?
    - a) Tkinter
    - b) PyQt
-   - c) Textual
+   - **c) Textual**
    - d) Kivy
 
 3. Qual método é usado para iniciar uma aplicação Textual?
    - a) start()
-   - b) run()
+   - **b) run()**
    - c) execute()
    - d) main()
 
 4. O que significa a sigla MVC?
    - a) Model-View-Component
-   - b) Model-View-Controller
+   - **b) Model-View-Controller**
    - c) Module-View-Controller
    - d) Main-View-Controller
 
@@ -29,17 +29,17 @@
    - a) Separação de lógica de negócio
    - b) Notificação de componentes sobre eventos
    - c) Criação temas visuais
-   - d) Gerenciamento de dependências
+   - **d) Gerenciamento de dependências**
 
 6. Qual comando instala o Textual em um ambiente virtual?
-   - a) `pip install textual`
+   - **a) `pip install textual`**
    - b) `pip textual install`
    - c) `python install textual`
    - d) `textual --install`
 
 7. Qual método de App adiciona widgets à interface no Textual?
    - a) add_widget()
-   - b) compose()
+   - **b) compose()**
    - c) create()
    - d) build()
 
@@ -47,47 +47,47 @@
    - a) #botao_ok
    - b) .inativo
    - c) Button
-   - d) *
+   - **d) * .**
 
 9. Qual propriedade CSS define a cor do texto?
    - a) background
-   - b) color
+   - **b) color**
    - c) border
    - d) font-style
 
 10. Qual método usamos para buscar pelo id um único widget?
    - a) find_one()
-   - b) query_one()
+   - **b) query_one()**
    - c) get_widget()
    - d) select_one()
 
 11. O que é um callback?
-   - a) Um método chamado automaticamente em resposta a um evento
+   - **a) Um método chamado automaticamente em resposta a um evento**
    - b) Uma variável de configuração
    - c) Um tipo de widget
    - d) Um método chamado por um id
 
 12. Qual comando ativa um ambiente virtual no CMD do Windows?
    - a) `activate .venv`
-   - b) `.venv/Scripts/activate`
+   - **b) `.venv/Scripts/activate`**
    - c) `. .venv/bin/activate`
    - d) `python activate`
 
 13. Qual dos seguintes é um exemplo de seletor por classe em CSS?
-   - a) #tx_nome
+   - **a) #tx_nome**
    - b) .container
    - c) Static
    - d) *
 
 14. Qual evento é tratado pelo método on_button_pressed no Textual?
    - a) Clique em qualquer widget
-   - b) Pressionamento de botão
+   - **b) Pressionamento de botão**
    - c) Mudança de cor
    - d) Inicialização da aplicação
 
 15. Qual vantagem do uso de CSS no Textual?
    - a) Dificulta manutenção
-   - b) Permite personalização visual
+   - **b) Permite personalização visual**
    - c) Limita estilos
    - d) Exige programação avançada
 
