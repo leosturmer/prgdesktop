@@ -73,4 +73,8 @@ LINKS
 Cyber Threat Management Course: Cybersecurity Governance
 Free online course to learn cybersecurity threat management from Cisco Networking Academy.
 
-[Cyber Threat Management Course](https://www.netacad.com/courses/cyber-threat-management?courseLang=pt-BR&instance_id=d2ca3196-fc27-4252-b036-3b14e9e20b8e)
+- [Cyber Threat Management Course](https://www.netacad.com/courses/cyber-threat-management?courseLang=pt-BR&instance_id=d2ca3196-fc27-4252-b036-3b14e9e20b8e)
+
+
+Apresentação Feira de Projetos SENAC 2025
+- [Feira de Projetos](FEIRA-DE-PROJETOS-2025.pdf) - Apresentação
